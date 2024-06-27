@@ -1,0 +1,21 @@
+tags = [
+    'Python', 'Java', 'JavaScript', 'C++', 'C#', 'Ruby', 'PHP', 'Swift', 'Kotlin', 'TypeScript',
+    'HTML', 'CSS', 'React.js', 'AngularJS', 'Vue.js', 'Node.js', 'Express.js', 'Flask', 'Django', 'Spring',
+    'ASP.NET', 'Ruby on Rails', 'Laravel', 'Symfony', 'Bootstrap', 'jQuery',
+    'SQL', 'MySQL', 'PostgreSQL', 'SQLite', 'MongoDB', 'Redis', 'Cassandra', 'Oracle Database',
+    'Pandas', 'NumPy', 'SciPy', 'Matplotlib', 'Seaborn', 'Plotly', 'TensorFlow', 'Keras', 'PyTorch', 'Scikit-learn',
+    'Hadoop', 'Spark', 'Flink', 'Kafka', 'Hive', 'Presto', 'Airflow', 'ETL', 'Data Warehousing', 'BigQuery',
+    'AWS', 'Azure', 'Google Cloud Platform', 'IBM Cloud', 'Heroku', 'DigitalOcean', 'Docker', 'Kubernetes', 'OpenShift',
+    'Jenkins', 'Travis CI', 'CircleCI', 'Git', 'GitHub', 'GitLab', 'Bitbucket',
+    'Machine Learning', 'Deep Learning', 'Natural Language Processing', 'Computer Vision', 'Reinforcement Learning',
+    'Data Mining', 'Predictive Analytics', 'Statistical Modeling', 'Time Series Analysis',
+    'Agile', 'Scrum', 'Kanban', 'Lean', 'DevOps', 'Continuous Integration', 'Continuous Deployment',
+    'Microservices', 'RESTful APIs', 'GraphQL', 'SOAP', 'WebSockets', 'OAuth', 'JWT',
+    'Blockchain', 'Smart Contracts', 'Cryptocurrency', 'Decentralized Finance', 'Solidity',
+    'UI/UX Design', 'Responsive Design', 'Accessibility', 'Wireframing', 'Prototyping',
+    'Cybersecurity', 'Penetration Testing', 'Firewall Management', 'Encryption', 'Vulnerability Assessment',
+    'Linux', 'Unix', 'Windows Server', 'Virtualization', 'Containerization',
+    'Mobile Development', 'iOS Development', 'Android Development', 'Flutter', 'React Native', 'Ionic',
+    'AR/VR Development', 'Unity', 'Unreal Engine', 'ARKit', 'ARCore',
+    'Blockchain', 'Smart Contracts', 'Web3.js', 'Ethereum', 'Solidity', 'NFTs'
+]
