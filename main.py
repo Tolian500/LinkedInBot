@@ -26,7 +26,7 @@ driver = webdriver.Chrome(options=chrome_options)
 
 def reload_page():
     driver.get(
-        "https://www.linkedin.com/jobs/search/?currentJobId=3955959954&f_LF=f_AL&geoId=105076658&keywords=software%20developer&location=Warsaw%2C%20Mazowieckie%2C%20Poland&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true")
+        "https://www.linkedin.com/jobs/search/?currentJobId=3954515784&f_WT=2&keywords=software%20developer&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true")
 
 
 def scroll_down():
@@ -208,7 +208,8 @@ def save_file():
 
 def change_page():
     global page
-    pager = driver.find_element(By.ID, value="ember267")
+    # pager = driver.find_element(By.ID, value="ember267")
+    pager = driver.find_element(By.XPATH, value="/html/body/div[6]/div[3]/div[4]/div/div/main/div/div[2]/div[1]/div/div[3]")
     driver.execute_script("arguments[0].scrollIntoView(true);", pager)
     next_page_str = str(page + 1)
     time.sleep(0.5)
